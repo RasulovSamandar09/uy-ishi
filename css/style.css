@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    text-align: center;
+}
+
+.navbar1{
+    display: flex;
+    margin-left: 620px;
+}
+.navbar1 p {
+    margin: 5px;;
+}
+.card-container{
+    display: flex;
+    text-align: center;
+    margin-left: 155px;
+}
+
+.card1{
+    height: 453px;
+width: 350px;
+left: 0px;
+top: 0px;
+border-radius: [object Object]px;
+background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(212, 210, 244, 0.5);
+border-radius: 0px 10px 10px 0px;
+
+}
+.card2{ 
+    color: #FFFFFF;
+    height: 500px;
+    width: 350px;
+    left: 0px;
+    top: 0.5px;
+background: linear-gradient(135.06deg, #A2A7F0 -0.05%, #696EDD 100.05%);
+box-shadow: 0px 20px 40px rgba(212, 210, 244, 0.5);
+border-radius: 10px;
+ 
+}
+
+.card3{
+    height: 453px;
+width: 350px;
+left: 0px;
+top: 0px;
+border-radius: [object Object]px;
+background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(212, 210, 244, 0.5);
+border-radius: 0px 10px 10px 0px;
+}
+
+.card2-p{
+font-size: 18px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: center;
+color: #FFFFFF;  
+}
+
+.card2-p1{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.p-img{
+    height: 50px;
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+color: #FFFFFF;
+}
+
+.p-img1{
+    height: 50px;
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+
+}
+
+button{
+    height: 44px;
+width: 288px;
+left: 0px;
+top: 0px;
+border-radius: 6px;
+border: none;
+}
+
+.img{
+    height: 20px;
+    width: 30px;
+}
+
+.button1{
+    cursor: pointer;
+    background-color: #696EDD;
+}
+
+.button1:hover{
+   background-color: #FFFFFF;
+    border: 1px solid black;
+}
+
+.button2{
+    cursor: pointer;
+    color: aliceblue;
+}
+
+.button2:hover{
+    background-color: #696EDD;
+}
